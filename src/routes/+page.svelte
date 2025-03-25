@@ -41,10 +41,10 @@
 	<div class="bg-black p-6 text-white">
 		<h3 class="mb-2 font-medium uppercase">Coffee?</h3>
 		<p class="mb-4 text-sm">
-			We are open daily from 8:00 AM to 5:30 PM. Whether you want to make choices, relax, or read a
+			Whether you want to make choices, relax, or read a
 			book, you can do it all with us. The coffee flows freely. Make yourself at home!
 		</p>
-		<p class="text-sm italic">Mushiqua, Ibrahim & Mea</p>
+		<p class="text-sm italic">Owner Name</p>
 	</div>
 
 	<!-- Blog Card -->
@@ -53,8 +53,8 @@
 		<p class="mb-4 text-sm">
 			At The Bean Spot, your coffee break is created with care and attention!
 		</p>
-		<p class="mb-1 text-sm text-gray-600">Testing in Utrecht? The tastiest brews are here!</p>
-		<p class="mb-4 text-sm text-gray-600">September 17, 2019</p>
+		<p class="mb-1 text-sm text-gray-600">Testing in Mathews? The tastiest brews are here!</p>
+		<p class="mb-4 text-sm text-gray-600">Mar 25, 2025</p>
 		<a href="#" class="text-xs uppercase">Read more</a>
 	</div>
 
@@ -62,9 +62,9 @@
 	<div class="border border-gray-300 p-6">
 		<h3 class="mb-2 font-medium uppercase">Reviews</h3>
 		<p class="mb-4 text-sm">
-			"Cozy place, very friendly staff and delicious coffee. Nice details: comfortable chairs..."
+			Random review: "Cozy place, very friendly staff and delicious coffee. Nice details: comfortable chairs..."
 		</p>
-		<p class="text-sm">Justhold, Kocz</p>
+		<p class="text-sm">John, Doe</p>
 		<a href="#" class="text-xs uppercase">Read more</a>
 	</div>
 </div>
@@ -100,8 +100,7 @@
 		</div>
 		<h3 class="mb-2 font-medium">Coffee Beans</h3>
 		<p class="text-xs">
-			Our coffees come from different countries around the world. We brew coffee with a Linea &
-			Mahlkönig. For bean sales, we focus on Villa Rica, Organic, Aeropress & Macchiato.
+			Our coffees come from different countries around the world.
 		</p>
 	</div>
 
@@ -113,9 +112,7 @@
 		</div>
 		<h3 class="mb-2 font-medium">Tea</h3>
 		<p class="text-xs">
-			Our tea selection includes classic green, black, or white teas with more than 16 flavors
-			including herbs. Want your own blend or a tea cocktail? We're happy to advise and brew for
-			you.
+			Our tea selection includes.
 		</p>
 	</div>
 
