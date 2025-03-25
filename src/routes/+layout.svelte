@@ -7,7 +7,14 @@
 <main class="mx-auto max-w-6xl px-4 font-sans">
 	<!-- Navigation -->
 	<nav class="flex flex-col items-center justify-between py-6 sm:flex-row">
-		<div class="font-cursive mb-4 text-2xl sm:mb-0">The Bean Spot</div>
+		<div class="mb-4 flex items-center sm:mb-0">
+			<img
+				src="/images/logo.jpg"
+				alt="The Bean Spot Logo"
+				class="mr-3 h-32 w-32 rounded-full object-cover"
+			/>
+			<p class="text-4xl">The Bean Spot</p>
+		</div>
 		<div class="flex flex-wrap justify-center gap-4 sm:space-x-8">
 			<a href="/" class="text-sm font-medium uppercase">Home</a>
 			<a href="/about" class="text-sm font-medium uppercase">About</a>
