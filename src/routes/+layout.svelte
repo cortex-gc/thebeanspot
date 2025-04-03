@@ -2,6 +2,7 @@
 <script>
 	import '../app.css';
 	let { children } = $props();
+	import GoogleMap from '$lib/components/GoogleMap.svelte';
 </script>
 
 <main class="mx-auto max-w-6xl px-4 font-sans">
@@ -36,7 +37,7 @@
 		<!-- Map -->
 		<div class="relative col-span-1 h-40 bg-gray-200 md:col-span-2">
 			<!-- Replace with map -->
-			<div class="absolute inset-0"></div>
+			<GoogleMap />
 			<!-- Address overlay -->
 			<div class="bg-opacity-70 absolute top-4 left-4 bg-black p-4 text-white">
 				<h3 class="mb-2 font-medium uppercase">256 Main St.</h3>
