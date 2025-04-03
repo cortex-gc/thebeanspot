@@ -27,29 +27,33 @@
 			Whether you want to make choices, relax, or read a book, you can do it all with us. The coffee
 			flows freely. Make yourself at home!
 		</p>
-		<p class="text-sm italic">Owner Name</p>
+		<p class="text-sm italic">Kevin Farrells</p>
 	</div>
 
 	<!-- Blog Card -->
 	<div class="border border-gray-300 p-6">
-		<h3 class="mb-2 font-medium uppercase">Blogs</h3>
+		<h3 class="mb-2 font-medium uppercase">Socials</h3>
 		<p class="mb-4 text-sm">
 			At The Bean Spot, your coffee break is created with care and attention!
 		</p>
 		<p class="mb-1 text-sm text-gray-600">Testing in Mathews? The tastiest brews are here!</p>
 		<p class="mb-4 text-sm text-gray-600">Mar 25, 2025</p>
-		<a href="#" class="text-xs uppercase">Read more</a>
+		<a
+			href="https://www.facebook.com/people/The-Bean-Spot/61566914216300/?_rdr"
+			class="text-xs uppercase"
+			target="_blank">Read more</a
+		>
 	</div>
 
 	<!-- Reviews Card -->
 	<div class="border border-gray-300 p-6">
 		<h3 class="mb-2 font-medium uppercase">Reviews</h3>
 		<p class="mb-4 text-sm">
-			Random review: "Cozy place, very friendly staff and delicious coffee. Nice details:
-			comfortable chairs..."
+			Random review: "First time here, professional, friendly welcoming service and the latte was
+			excellent. Support the best coffee in Mathews!"
 		</p>
-		<p class="text-sm">John, Doe</p>
-		<a href="#" class="text-xs uppercase">Read more</a>
+		<p class="mb-4 text-sm">Laura Taylor</p>
+		<a href="https://g.co/kgs/mGQfcHK" target="_blank" class="text-xs uppercase">Read more</a>
 	</div>
 </div>
 
@@ -59,18 +63,22 @@
 	<div class="relative flex h-40 flex-col items-center justify-center bg-gray-200 sm:h-32">
 		<!-- Replace with actual image -->
 		<div class="bg-opacity-50 absolute inset-0 bg-black"></div>
-		<h3 class="relative z-10 mb-4 text-xl font-medium text-white">Become a Barista?</h3>
-		<p class="relative z-10 mb-4 text-sm text-white">Want to dive into the barista profession?</p>
-		<a href="#" class="relative z-10 bg-white px-6 py-1 text-xs text-black uppercase">Start</a>
+		<h3 class="relative z-10 mb-4 text-xl font-medium text-white">Our Journey</h3>
+		<p class="relative z-10 mb-4 text-sm text-white">
+			From bean to cup: discover the passion behind The Bean Spot
+		</p>
+		<a href="/about" class="relative z-10 bg-white px-6 py-1 text-xs text-black uppercase">Start</a>
 	</div>
 
 	<!-- Latte Art CTA -->
 	<div class="relative flex h-40 flex-col items-center justify-center bg-gray-200 sm:h-32">
 		<!-- Replace with actual image -->
 		<div class="bg-opacity-50 absolute inset-0 bg-black"></div>
-		<h3 class="relative z-10 mb-4 text-xl font-medium text-white">Latte Art</h3>
-		<p class="relative z-10 mb-4 text-sm text-white">The secret of figures, designs & patterns?</p>
-		<a href="#" class="relative z-10 bg-white px-6 py-1 text-xs text-black uppercase">Start</a>
+		<h3 class="relative z-10 mb-4 text-xl font-medium text-white">Craft Beverages</h3>
+		<p class="relative z-10 mb-4 text-sm text-white">
+			Explore our handcrafted coffee and tea creations
+		</p>
+		<a href="/menu" class="relative z-10 bg-white px-6 py-1 text-xs text-black uppercase">Start</a>
 	</div>
 </div>
 

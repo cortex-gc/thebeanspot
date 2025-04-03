@@ -42,10 +42,10 @@
 			<!-- Team Member 1 -->
 			<div class="flex flex-col items-center text-center">
 				<div class="mb-5 h-40 w-40 rounded-full bg-gray-200" style="display: block;"></div>
-				<h3 class="mb-1 font-medium">Sarah Johnson</h3>
+				<h3 class="mb-1 font-medium">Kevin Farrells</h3>
 				<p class="mb-2 text-sm text-gray-600">Owner & Head Barista</p>
 				<p class="max-w-xs text-sm">
-					Coffee enthusiast with over 10 years of experience in specialty coffee. Sarah is the heart
+					Coffee enthusiast with over 10 years of experience in specialty coffee. Kevin is the heart
 					and soul of The Bean Spot.
 				</p>
 			</div>

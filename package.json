@@ -25,7 +25,10 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
+		"@fortawesome/free-brands-svg-icons": "^6.7.2",
+		"@rodneylab/svelte-social-icons": "^0.0.31",
 		"lightningcss": "^1.29.3",
+		"svelte-fa": "^4.0.3",
 		"totalist": "^3.0.1"
 	}
 }

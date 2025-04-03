@@ -2,6 +2,8 @@
 <script>
 	import '../app.css';
 	let { children } = $props();
+
+	import SocialIcons from '@rodneylab/svelte-social-icons';
 	import GoogleMap from '$lib/components/GoogleMap.svelte';
 </script>
 
@@ -29,9 +31,9 @@
 		<!-- Contact Info -->
 		<div class="border border-gray-300 p-6">
 			<h3 class="mb-4 font-medium uppercase">Contact Information</h3>
-			<p class="mb-1 text-sm">E:</p>
+			<p class="mb-1 text-sm">Email:</p>
 			<p class="mb-4 text-sm">info@mainstreetmatthews.biz</p>
-			<p class="mb-1 text-sm">Phone</p>
+			<p class="mb-1 text-sm">Phone:</p>
 			<p class="text-sm">+1 (804) 725-6138</p>
 		</div>
 		<!-- Map -->
@@ -54,20 +56,32 @@
 		class="flex flex-col items-center justify-between border-t border-gray-200 py-4 text-xs sm:flex-row"
 	>
 		<div>
-			<p>Copyright 2020 © The Bean Spot</p>
+			<p>Copyright {new Date().getFullYear()} © The Bean Spot</p>
 			<p>Privacy | Privacy statement | Disclaimer</p>
 			<p class="mt-4">Inspiration or new possibilities? Contact us!</p>
 		</div>
+
 		<!-- Social Media Icons -->
 		<div class="mt-4 flex space-x-2 sm:mt-0">
-			<!-- Replace with actual social icons -->
-			<div class="h-6 w-6 rounded-full bg-gray-200"></div>
-			<div class="h-6 w-6 rounded-full bg-gray-200"></div>
-			<div class="h-6 w-6 rounded-full bg-gray-200"></div>
-			<div class="h-6 w-6 rounded-full bg-gray-200"></div>
-			<div class="h-6 w-6 rounded-full bg-gray-200"></div>
-			<div class="h-6 w-6 rounded-full bg-gray-200"></div>
-			<div class="h-6 w-6 rounded-full bg-gray-200"></div>
+			<!-- Facebook Icon -->
+			<a
+				href="https://www.facebook.com/profile.php?id=61566914216300"
+				target="_blank"
+				rel="noopener noreferrer"
+				aria-label="Facebook"
+			>
+				<SocialIcons network="facebook" alt="" />
+			</a>
+
+			<!-- Instagram Icon -->
+			<a
+				href="https://www.instagram.com/_the.bean.spot_/"
+				target="_blank"
+				rel="noopener noreferrer"
+				aria-label="Instagram"
+			>
+				<SocialIcons network="instagram" alt="" />
+			</a>
 		</div>
 	</div>
 </main>
