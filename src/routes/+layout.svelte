@@ -29,8 +29,8 @@
 		<!-- Contact Info -->
 		<div class="border border-gray-300 p-6">
 			<h3 class="mb-4 font-medium uppercase">Contact Information</h3>
-			<p class="mb-1 text-sm">E: mailhere</p>
-			<p class="mb-4 text-sm">info@thebeanspot.com</p>
+			<p class="mb-1 text-sm">E:</p>
+			<p class="mb-4 text-sm">info@mainstreetmatthews.biz</p>
 			<p class="mb-1 text-sm">Phone</p>
 			<p class="text-sm">+1 (804) 725-6138</p>
 		</div>
