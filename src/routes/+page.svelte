@@ -24,8 +24,7 @@
 	<div class="bg-black p-6 text-white">
 		<h3 class="mb-2 font-medium uppercase">Coffee?</h3>
 		<p class="mb-4 text-sm">
-			Whether you want to make choices, relax, or read a book, you can do it all with us. The coffee
-			flows freely. Make yourself at home!
+			Whether you're catching up on a book, unwinding after a long day, or making life’s little choices over a cup of coffee — The Bean Spot is your cozy corner. Come in, stay awhile, and sip freely.
 		</p>
 		<p class="text-sm italic">Kevin Farrells</p>
 	</div>
@@ -34,7 +33,7 @@
 	<div class="border border-gray-300 p-6">
 		<h3 class="mb-2 font-medium uppercase">Socials</h3>
 		<p class="mb-4 text-sm">
-			At The Bean Spot, your coffee break is created with care and attention!
+			Every cup at The Bean Spot is brewed with care—and so are our stories. Check out what’s fresh from our corner of Mathews.
 		</p>
 		<p class="mb-1 text-sm text-gray-600">Testing in Mathews? The tastiest brews are here!</p>
 		<p class="mb-4 text-sm text-gray-600">Mar 25, 2025</p>
