@@ -32,9 +32,17 @@
 		<div class="border border-gray-300 p-6">
 			<h3 class="mb-4 font-medium uppercase">Contact Information</h3>
 			<p class="mb-1 text-sm">Email:</p>
-			<p class="mb-4 text-sm">info@mainstreetmatthews.biz</p>
+			<p class="mb-4 text-sm">
+				<a href="mailto:info@mainstreetmatthews.biz" class="text-blue-500 hover:underline">
+					info@mainstreetmatthews.biz
+				</a>
+			</p>
 			<p class="mb-1 text-sm">Phone:</p>
-			<p class="text-sm">+1 (804) 725-6138</p>
+			<p class="text-sm">
+				<a href="tel:+18047256138" class="text-blue-500 hover:underline">
+					+1 (804) 725-6138
+				</a>
+			</p>
 		</div>
 		<!-- Map -->
 		<div class="relative col-span-1 h-40 bg-gray-200 md:col-span-2">
